@@ -1,7 +1,7 @@
 ﻿using BangServer.Core.Entity.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace BangServer.Core.Entity
+namespace BangServer.Data
 {
     public class RepositoryContext: DbContext
     {
